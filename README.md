@@ -1,23 +1,25 @@
 # Zindua School Challange 2
 
-A challange for the zindua school software engineering program
+A challenge for the software engineering program at Zindua School
 
+The link for the cureent progress is [here](https://manassehgitau.github.io/challange-2/)
 ---
 
-## Installation
+## Setup
 
-clone the repositorty using 
 
-```
+Make a copy of the repository. This is a git clone of
+
+```git
 git clone git@github.com:manassehgitau/challange-2.git
 ```
 ---
 
 ## Usage
 
-- open the index.html file to open the code
-- once done maing changes use the following commaands in your terminal
-  ```
+- To access the code, open the index.html file. After making modifications, enter the following commaands in your terminal:
+  
+  ```git
   git add .
   git commit -m "your changes "
   git push -u origin main
