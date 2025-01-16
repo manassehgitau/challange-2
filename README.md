@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Zindua Challange 2</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -10,27 +10,19 @@
 </p>
 
 
-<p align="center">Simple description of what your project do or how to use it</p>
+<p align="center">This is the challenge 2 for  the zindua software engineering progam/p>
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/manassehgitau/challange-2">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
 
-<p align="center">
-
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-</p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- list of all technologies you used
-- react
-- styled components
-- another example
+- HTML
+- CSS
 
 <h2 id="started">🚀 Getting started</h2>
 
