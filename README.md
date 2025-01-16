@@ -3,6 +3,8 @@
 A challenge for the software engineering program at Zindua School
 
 The link for the cureent progress is [here](https://manassehgitau.github.io/challange-2/)
+
+
 ---
 
 ## Setup
