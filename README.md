@@ -10,27 +10,20 @@
 </p>
 
 
-<p align="center">This is the challenge 2 for  the zindua software engineering progam/p>
+<p align="center">This is challenge 2 for  the zindua software engineering program </p>
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://manassehgitau.github.io/challange-2/">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
-
-<p align="center">
-
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-</p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
 - list of all technologies you used
-- react
-- styled components
-- another example
+- HTML & CSS
+- Git
+- Vs code
 
 <h2 id="started">🚀 Getting started</h2>
 
@@ -38,7 +31,7 @@ This is how to run your project locally
 
 <h3>Prerequisites</h3>
 
-Here are  all prerequisites necessary for running your project:
+Here are  all the prerequisites necessary for running your project:
 
 - [HTML & CSS](https://freecodecamp.com/)
 - [Git](https://git.com)
@@ -62,7 +55,7 @@ code .
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-<p>Special thank you to all people who contributed to this project.</p>
+<p>Special thank you to all the people who contributed to this project.</p>
 <table>
 <tr>
 
